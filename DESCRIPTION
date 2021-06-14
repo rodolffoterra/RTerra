@@ -1,0 +1,15 @@
+Package: RTerra
+Title: Some Extract, transform, load functions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Rodolfo",
+           family = "Terra",
+           role = c("aut", "cre"),
+           email = "consultoriaterra@hotmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Package to remove missing values, remove accentuation of words, and change the type of variable
+License: GNU GPL V3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
